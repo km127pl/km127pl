@@ -18,4 +18,4 @@
 
 #### Specs
 
-<img src="https://img.shields.io/badge/NVIDIA-GT730-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/Intel-Core_i3_7th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+<img src="https://img.shields.io/badge/NVIDIA-GT730-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/Intel-Core_i3_7th-0071C5?style=for-the-badge&logo=intel&logoColor=white" /> <img src="https://img.shields.io/badge/RAM-12GB_DDR4-b8161c?style=for-the-badge&logo=facebook-gaming&logoColor=white" />
