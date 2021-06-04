@@ -10,3 +10,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=km127pl&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+[![KM127PL's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=km127pl)](https://github.com/anuraghazra/github-readme-stats)
+
+
