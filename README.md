@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/KM127PL/km127pl/master/banner.png" />
 
 
 #### My computer
