@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=km127pl&label=Profile%20views&color=0e75b6&style=flat" alt="km127pl" /> </p>
 
 
-- 🔭 I’m currently working on [Canes.](https://github.com/KM127PL/Canes)
+- 🔭 I’m currently working on *nothing really* <!-- [Canes.](https://github.com/KM127PL/Canes) !-->
 
-- 🌱 I’m currently learning **C and JavaScript.**
+- 🌱 I’m currently learning *nothing either* <!--**C and JavaScript.**!-->
 
 - 📫 How to reach me **km127pl@gmail.com or KM127PL#5255**
 
