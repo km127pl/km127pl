@@ -9,7 +9,7 @@
 ## What am I up to?
 * I am currently working on:
     * [Arciera](https://github.com/arciera/server) - a minimalistic Minecraft server written in TypeScript.
-    * My own website! - [km127pl.us](https://github.com/km127pl/km127pl.us
+    * My own website! - [km127pl.us](https://github.com/km127pl/km127pl.us)
 * One day I am hoping to
     * Learn rustlang
     * Create my own operating system
