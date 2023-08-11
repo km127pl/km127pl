@@ -5,5 +5,5 @@
     * My own website! - [km127pl.us](https://github.com/km127pl/km127pl.us)
 
 ## Contact
-* By email [km127pl@gmail.com](mailto:km127pl@gmail.com)
-* On discord `km127pl`
+* Email - [km127pl@gmail.com](mailto:km127pl@gmail.com)
+* Discord - `km127pl`
