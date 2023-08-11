@@ -8,9 +8,8 @@
 
 ## What am I up to?
 * I am currently working on:
-    * My own website! - [km127pl.us](https://github.com/km127pl/km127pl.us)
-    * CelestialDungeons - a plugin that generates random, rogue-like dungeons for players to explore 
-    * Rusteware - a warehouse inventory management software for tracking products.
+    * [Arciera](https://github.com/arciera/server) - a minimalistic Minecraft server written in TypeScript.
+    * My own website! - [km127pl.us](https://github.com/km127pl/km127pl.us
 * One day I am hoping to
     * Learn rustlang
     * Create my own operating system
