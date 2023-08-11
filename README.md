@@ -1,5 +1,4 @@
-![KM127PL - A software developer from Poland.](thumbnail.jpg)
-<hr>
+# Hello! I'm km127pl.
 
 ## What am I up to?
 * I am currently working on:
