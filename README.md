@@ -1,7 +1,7 @@
 ## こんいちわ、私は《km127pl》です、どうぞよろしく。
 
 I am km127pl a software developer — mostly with backend.
-I'm currently helping in the development of a hosting platform @cloudnode.
+I'm currently helping in the development of a hosting platform <a href="https://github.com/cloudnode-pro">@cloudnode</a>.
 
 I'm also have my own website <a href="https://www.km127pl.dev">km127pl.dev</a>! <br/>
 
